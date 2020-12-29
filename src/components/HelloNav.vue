@@ -4,7 +4,9 @@
       class="navbar-toggler"
       data-toggle="collapse"
       data-target="#collapse_target"
-    ></button>
+    >
+      Show more
+    </button>
     <div class="collapse navbar-collapse" id="collapse_target">
       <ul class="navbar-nav">
         <li class="nav-item"><a class="nav-link" href="">Visual product</a></li>
